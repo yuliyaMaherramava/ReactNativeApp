@@ -1,0 +1,6 @@
+/android/
+/ios/
+
+*.json
+README.md
+.watchmanconfig
