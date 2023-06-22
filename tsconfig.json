@@ -1,3 +1,6 @@
 {
+  "compilerOptions": {
+    "forceConsistentCasingInFileNames": true,
+  },
   "extends": "@tsconfig/react-native/tsconfig.json"
 }
